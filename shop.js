@@ -17,7 +17,7 @@ export default function ShopPage() {
         transition={{ duration: 1 }}
         className="text-4xl font-bold mb-6"
       >
-        Sneaker Store
+        Sneaker
       </motion.h1>
       <motion.div
         initial={{ opacity: 0 }}
